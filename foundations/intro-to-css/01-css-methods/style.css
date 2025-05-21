@@ -1,0 +1,13 @@
+/* type selector */
+div {
+    background-color: red;
+    color: white;
+}
+
+/* type selector */
+p {
+    background-color: green;
+    color: white;
+    font-weight: 500;
+
+}

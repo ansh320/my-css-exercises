@@ -1,0 +1,23 @@
+/* for class selector */
+.num1,.num3,.num5{
+    background-color:lightpink;
+    font-family:"Verdana","DejaVu Sans",sans-serif;
+}
+
+/* for id selector */
+ #num2{
+  color:blue;
+  font-size: 36px;
+ }
+
+ /* for additinal class selector info */
+ .num3{
+    font-size: 24px;
+ }
+
+ /* for id selector */
+ #num4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+ }
